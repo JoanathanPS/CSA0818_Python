@@ -1,15 +1,9 @@
 # CSA0818_Python
 Python Programs
-Assignment 1
+DAY 1 ASSIGNMENT – 29.04.25
 
-Develop a tool that helps users manage their stock investments in real-time.
-Tasks:
-1. Model stocks, transactions, and portfolio value.
-2. Implement a Python application fetching live stock data.
-3. Calculate portfolio value based on current prices.
-4. Allow users to simulate buy/sell actions.
-Deliverables:
-• Data flow diagram for stock tracking.
-• Pseudocode and system code.
-• Documentation explaining investment calculations.
-• Assumptions about market volatility and improvements.
+Write a program to calculate the simple interest given principal, rate, and time.
+Write a program to find the maximum of three numbers using if-else.
+Write a program to print all even numbers between 1 and 50 using a loop.
+Write a program to check whether a given year is a leap year.
+Write a program to print the multiplication table of a given number.
