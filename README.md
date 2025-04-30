@@ -1,6 +1,7 @@
 # CSA0818_Python
 Python Programs
 Assignment 1
+
 Develop a tool that helps users manage their stock investments in real-time.
 Tasks:
 1. Model stocks, transactions, and portfolio value.
