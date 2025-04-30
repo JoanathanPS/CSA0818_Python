@@ -10,7 +10,6 @@ Tasks:
 4. Allow users to simulate buy/sell actions.
 Deliverables:
 • Data flow diagram for stock tracking.
-
 • Pseudocode and system code.
 • Documentation explaining investment calculations.
 • Assumptions about market volatility and improvements.
