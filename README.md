@@ -1,2 +1,1 @@
-Assignment
-From Day 1
+Daily Assignments
